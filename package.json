@@ -1,0 +1,16 @@
+{
+  "name": "coins",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "calc": "tsx index.ts"
+  },
+  "dependencies": {
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.4.9",
+    "tsx": "^3.12.7"
+  }
+}
